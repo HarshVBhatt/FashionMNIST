@@ -1,6 +1,8 @@
 # FashionMNIST
 CNN model to classify fashion apparels from FashionMNIST dataset
 
+Dataset - https://www.kaggle.com/zalando-research/fashionmnist
+
 Project includes: 
 - transforming data
 - feeding it to a CNN model (Keras, Tensorflow) for classification
